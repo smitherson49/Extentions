@@ -5,7 +5,6 @@
 </head>
 <body> 
 <h1><stong> Extensions </stong></h1>
-<img src="Extentions.jpg">
 <img src="Extentions.jpg" alt="Extentions" width="600" height="400"> 
 <h2><stong> About Us </strong></h2> 
 <br>
